@@ -1,0 +1,11 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jessylinlin/gulp-project.git",
+  "author": "zhanglin <1501103995@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
